@@ -6,7 +6,7 @@
 * 📚 Acho **incrivel** como a **tecnologia** tem o poder de **ajudar** as pessoas.
 * 🎓 Busco **crescer** no meio e ter contato com pessoas **capacitadas** no que fazem.
 * 🤔 Gosto sempre de ouvir **opiniões** diferentes sobre **qualquer** assunto.
-* 
+
 ##
 
 <div>
