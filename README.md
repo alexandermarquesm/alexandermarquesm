@@ -13,13 +13,17 @@
   <h3>Meu projeto em progresso 👇 </h3>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexandermarquesm&repo=appconvert&show_owner=true&theme=dracula&border_radius=10">
 </div>
-  
+
+<br>
+
 <div>
   <h3>Meus Stats 📊<h3>
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=alexandermarquesm&show_icons=true&theme=dracula&border_radius=10">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermarquesm&layout=compact&theme=dracula&border_radius=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandermarquesm&show_icons=true&theme=dracula&border_radius=10">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandermarquesm&layout=compact&theme=dracula&border_radius=10">
 </div>
 
+<br>
+    
 <div style="display: inline_block">
   <h3>Tecnologias</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" height="40px"/>
