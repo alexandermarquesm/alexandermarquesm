@@ -1,7 +1,7 @@
 ## Olá a todos, me chamo **Alexander** 🤓
 
 #### Curiosidades e coisas que se passam na minha mente
-* 🏖 Atualmente vivo **Florianopolis**.
+* 🏖 Atualmente vivo em **Florianopolis**.
 * 🐍 Amo **python**, se eu pudesse faria tudo com **python** rs.
 * 📚 Acho **incrivel** como a **tecnologia** tem o poder de **ajudar** as pessoas.
 * 🎓 Busco **crescer** no meio e ter contato com pessoas **capacitadas** no que fazem.
