@@ -7,8 +7,9 @@
     "🛠️": "desenvolver ferramentas que simplificam a vida",
     "🌱": "aprendizado contínuo e evolução constante"
   },
-  "stack": [
+  "techs": [
     "Python",
+    "Flask",
     "TypeScript", 
     "React",
     "Git",
